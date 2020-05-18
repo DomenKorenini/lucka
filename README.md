@@ -9,6 +9,6 @@ Details about the hardware design of the light sensor can be found here: https:/
 To get the software, you can simply clone my GitHub repository and then clone a repository from which Lucka imports a function that reads data from the light sensor.
 git clone https://github.com/DomenKorenini/lucka/
 cd lucka
-git clone https://github.com/pimylifeup/Light_Sensor/
+git clone https://github.com/DomenKorenini/Light_Sensor
 
 I’ll be working on Lucka and try to teach it even more tricks, so stay in touch. It is always work in progress :)
